@@ -71,17 +71,17 @@ body {
     display: inline-block;
     margin-bottom: 20px;
     font-size: 13px;
-    color: #555;
+    color: #da2626;
     transition: all linear 160ms;
 }
 
 .formLogin a:hover {
-    color: #f72585;
+    color: #cf86a7;
 }
 
 .btn {
     background-color: #f72585;
-    color: #fff;
+    color: #000000;
     font-size: 14px;
     font-weight: 600;
     border: none !important;
